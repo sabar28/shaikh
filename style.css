@@ -1,0 +1,39 @@
+div.form{
+	background:black;
+	width: 10cm;
+	height: 10.5cm;
+	padding: 40px 20px;
+	border-radius: 45px;
+	font-style: white;
+	color:white;
+	font-style: white;
+}
+ 
+label{
+	width: 150px;
+	display: inline-block;
+	margin: 0.3cm;
+	font-size: 16px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color:white;
+	margin-left: 5px;
+	text-align: left;
+
+}
+input{
+	padding: 2px;
+	margin: 0.5px;
+	font-size: 15px;
+	border-radius: 7px;
+	
+	width: 5cm;
+}
+input#submit{
+	margin-top: 7px;
+	color: black;
+	font-weight: bold;
+	font-style: white;
+	padding: 4px;
+
+}
